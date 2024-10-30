@@ -1,0 +1,153 @@
+player_id,name,last_season,current_club_id,player_code,country_of_birth,date_of_birth,sub_position,position,foot,height_in_cm,market_value_in_eur,highest_market_value_in_eur,contract_expiration_date,agent_name
+124732,John Anthony Brooks,2023,533,john-anthony-brooks,Germany,1993-01-28,Centre-Back,Defender,left,194.0,2000000.0,11468750.0,2024-06-30,ROGON
+223047,Emerson Hyndman,2018,903,emerson-hyndman,United States,1996-04-09,Central Midfield,Midfield,right,170.0,800000.0,1800000.0,2025-06-30,OmniSports
+307781,Lynden Gooch,2016,289,lynden-gooch,United States,1995-12-24,Right Winger,Attack,right,173.0,1000000.0,1000000.0,2024-06-30,Unique Sports Group
+370846,Timothy Weah,2023,506,timothy-weah,United States,2000-02-22,Right Midfield,Midfield,right,183.0,4137500.0,11468750.0,2028-06-30,BS Group - BS Law
+484756,Djordje Mihailovic,2023,1090,djordje-mihailovic,United States,1998-11-10,Attacking Midfield,Midfield,right,178.0,4137500.0,6000000.0,2026-06-30,YMU Management Ltd.
+659781,Jack de Vries,2021,607,jack-de-vries,United States,2002-03-28,Right Winger,Attack,left,178.0,250000.0,250000.0,2023-06-30,CAA Stellar
+1163778,Kahveh Zahiroleslam,2023,475,kahveh-zahiroleslam,United States,2002-06-13,Centre-Forward,Attack,right,193.0,1000000.0,2000000.0,2025-06-30,Wasserman
+72519,Bobby Wood,2018,42,bobby-wood,United States,1992-11-15,Centre-Forward,Attack,right,180.0,400000.0,4500000.0,2023-12-31,PRO FC
+104203,Eugene Starikov,2015,6992,eugene-starikov,UdSSR,1988-11-17,Centre-Forward,Attack,right,175.0,1000000.0,500000.0,2025-06-30,Prosport
+125698,Dillon Powers,2020,1519,dillon-powers,United States,1991-02-14,Defensive Midfield,Midfield,right,180.0,200000.0,950000.0,2023-11-30,Wasserman
+408562,Marlon Fossey,2023,3057,marlon-fossey,United States,1998-09-09,Right-Back,Defender,right,179.0,2500000.0,2500000.0,2027-06-30,New Vision
+425306,Matt Turner,2023,703,matt-turner,United States,1994-06-24,Goalkeeper,Goalkeeper,right,191.0,4137500.0,10000000.0,2027-06-30,Wasserman
+482493,Ian Harkes,2022,1519,ian-harkes,England,1995-03-30,Central Midfield,Midfield,right,180.0,450000.0,700000.0,2023-12-31,YMU Management Ltd.
+605498,Sebastian Soto,2021,1123,sebastian-soto,United States,2000-07-28,Centre-Forward,Attack,right,183.0,350000.0,550000.0,2025-06-30,CCC
+696762,Jonathan Tomkinson,2021,1123,jonathan-tomkinson,United States,2002-04-11,Centre-Back,Defender,right,190.0,150000.0,150000.0,2023-05-31,Wasserman
+30593,Michael Bradley,2013,12,michael-bradley,United States,1987-07-31,Central Midfield,Midfield,right,189.0,200000.0,6500000.0,2025-06-30,Football Company Srl
+49723,Timothy Chandler,2023,24,timothy-chandler,Germany,1990-03-29,Right-Back,Defender,right,186.0,700000.0,5000000.0,2025-06-30,Wasserman
+59471,Chris Konopka,2015,2759,chris-konopka,United States,1985-04-14,Goalkeeper,Goalkeeper,right,197.0,1000000.0,150000.0,2025-06-30,Wasserman
+31041,Fabian Johnson,2019,18,fabian-johnson,Germany,1987-12-11,Left Winger,Attack,right,183.0,1000000.0,7000000.0,2025-06-30,Robert Schneider
+184133,Russell Canouse,2015,533,russell-canouse,United States,1995-06-11,Central Midfield,Midfield,right,177.0,1000000.0,1000000.0,2023-12-31,AKA Global GmbH
+229912,Shane O'Neill,2017,798,shane-oneill,Ireland,1993-09-02,Centre-Back,Defender,right,188.0,500000.0,500000.0,2024-12-31,Wasserman
+255916,DeAndre Yedlin,2021,141,deandre-yedlin,United States,1993-07-09,Right-Back,Defender,right,173.0,2000000.0,8000000.0,2025-12-31,Mega Sports
+334992,Jonathan Klinsmann,2018,44,jonathan-klinsmann,Germany,1997-04-08,Goalkeeper,Goalkeeper,right,194.0,200000.0,300000.0,2023-12-31,Octagon
+351503,Kevin Silva,2019,43,kevin-silva,United States,1998-01-05,Goalkeeper,Goalkeeper,right,181.0,1000000.0,100000.0,2025-06-30,Wasserman
+370844,Brady Scott,2019,3,brady-scott,United States,1999-06-30,Goalkeeper,Goalkeeper,right,187.0,125000.0,125000.0,2023-12-31,PRO FC
+389253,Auston Trusty,2023,350,auston-trusty,United States,1998-08-12,Centre-Back,Defender,left,190.0,4137500.0,10000000.0,2027-06-30,Sports Invest UK ltd
+448696,Michael Lansing,2020,2414,michael-lansing,United States,1994-06-13,Goalkeeper,Goalkeeper,right,193.0,200000.0,400000.0,2023-12-31,Wasserman
+562387,Chris Mueller,2021,903,chris-mueller,United States,1996-08-29,Right Winger,Attack,right,175.0,2500000.0,3500000.0,2025-12-31,Wasserman
+747967,Brian Schwake,2022,1241,brian-schwake,United States,2001-08-24,Goalkeeper,Goalkeeper,right,189.0,250000.0,250000.0,2025-06-30,YMU Management Ltd.
+795738,Paxten Aaronson,2023,24,paxten-aaronson,United States,2003-08-26,Attacking Midfield,Midfield,right,175.0,4137500.0,4500000.0,2027-06-30,Wasserman
+24637,Jonathan Spector,2018,903,jonathan-spector,United States,1986-03-01,Centre-Back,Defender,right,183.0,1000000.0,2500000.0,2025-06-30,SK Soccer Tours
+39471,Brad Guzan,2016,641,brad-guzan,United States,1984-09-09,Goalkeeper,Goalkeeper,left,193.0,100000.0,5000000.0,2023-12-31,YMU Group
+131171,Juan Agudelo,2013,512,juan-agudelo,Colombia,1992-11-23,Centre-Forward,Attack,both,185.0,400000.0,1000000.0,2023-11-30,Wasserman
+271107,Travis Brent,2014,1304,travis-brent,United States,1992-02-17,Right-Back,Defender,right,176.0,1000000.0,125000.0,2025-06-30,Wasserman
+119169,Aron Johannsson,2018,86,aron-johannsson,United States,1990-11-10,Centre-Forward,Attack,right,184.0,400000.0,4000000.0,2024-12-31,CAA Stellar
+161204,Julian Green,2021,65,julian-green,United States,1995-06-06,Central Midfield,Midfield,right,173.0,1000000.0,2000000.0,2024-06-30,acta7
+228370,Gedion Zelalem,2016,11,gedion-zelalem,Germany,1997-01-26,Central Midfield,Midfield,right,180.0,150000.0,300000.0,2024-06-30,athleteMNGment
+258888,Kyle Scott,2017,631,kyle-scott,England,1997-12-22,Central Midfield,Midfield,right,172.0,100000.0,100000.0,2023-11-30,Wasserman
+627183,Benji Michel,2023,8024,benji-michel,United States,1997-10-23,Left Winger,Attack,right,178.0,1000000.0,1500000.0,2025-06-30,Wasserman
+627198,Chituru Odunze,2021,1003,chituru-odunze,United States,2002-10-14,Goalkeeper,Goalkeeper,left,200.0,1000000.0,2000000.0,2025-06-30,CAA Stellar
+678194,Matthew Hoppe,2022,903,matthew-hoppe,United States,2001-03-13,Centre-Forward,Attack,right,191.0,1000000.0,4500000.0,2026-06-30,Bond MG
+39475,Sacha Kljestan,2014,58,sacha-kljestan,United States,1985-09-09,Attacking Midfield,Midfield,both,185.0,1000000.0,3000000.0,2025-06-30,Wasserman
+77714,Bill Hamid,2018,865,bill-hamid,United States,1990-11-25,Goalkeeper,Goalkeeper,right,191.0,500000.0,900000.0,2023-11-30,CAA Base Ltd
+175996,Sebastian Lletget,2014,379,sebastian-lletget,United States,1992-09-03,Central Midfield,Midfield,right,178.0,2000000.0,2500000.0,2026-12-31,Mega Sports
+176850,A.J. Soares,2016,678,a-j-soares,United States,1988-11-28,Centre-Back,Defender,right,183.0,1000000.0,300000.0,2025-06-30,PROSPORT Management
+315779,Christian Pulisic,2023,5,christian-pulisic,United States,1998-09-18,Right Winger,Attack,right,177.0,4137500.0,11468750.0,2027-06-30,Wasserman
+393323,Brenden Aaronson,2023,89,brenden-aaronson,United States,2000-10-22,Attacking Midfield,Midfield,right,177.0,4137500.0,11468750.0,2024-06-30,Wasserman
+692736,Malick Sanogo,2022,89,malick-sanogo,United States,2004-06-30,Centre-Forward,Attack,left,185.0,1000000.0,2000000.0,2025-06-30,CN Sports
+245893,Matt Miazga,2021,1108,matt-miazga,United States,1995-07-19,Centre-Back,Defender,right,193.0,2000000.0,3000000.0,2025-12-31,Promoesport
+411302,Brendan Hines-Ike,2020,601,brendan-hines-ike,United States,1994-11-30,Centre-Back,Defender,right,185.0,800000.0,800000.0,2024-12-31,CAA Stellar
+478940,Reggie Cannon,2022,2503,reggie-cannon,United States,1998-06-11,Right-Back,Defender,right,180.0,4000000.0,4000000.0,2025-06-30,YMU Management Ltd.
+483047,Seyi Adekoya,2018,19657,seyi-adekoya,United States,1995-12-05,Centre-Forward,Attack,right,180.0,1000000.0,250000.0,2025-06-30,Wasserman
+544931,Christian Cappis,2022,206,christian-cappis,United States,1999-08-13,Central Midfield,Midfield,both,185.0,1000000.0,1500000.0,2025-06-30,in4 sports
+704156,Nicholas Gioacchini,2021,969,nicholas-gioacchini,United States,2000-07-25,Centre-Forward,Attack,right,183.0,1200000.0,2000000.0,2024-12-31,CAA Base Ltd
+742297,Caden Clark,2022,23826,caden-clark,United States,2003-05-27,Attacking Midfield,Midfield,right,180.0,2000000.0,3500000.0,2025-06-30,YMU Management Ltd.
+12517,Oguchi Onyewu,2012,1084,oguchi-onyewu,United States,1982-05-13,Centre-Back,Defender,right,193.0,1000000.0,7000000.0,2025-06-30,Wasserman
+31642,Geoff Cameron,2017,512,geoff-cameron,United States,1985-07-11,Centre-Back,Defender,right,190.0,1000000.0,5000000.0,2025-06-30,CMG Sports
+170540,Cody Cropper,2013,180,cody-cropper,United States,1993-02-16,Goalkeeper,Goalkeeper,right,191.0,1000000.0,650000.0,2025-06-30,PROSPORT Management
+209019,Kenny Saief,2018,58,kenny-saief,United States,1993-12-17,Right Winger,Attack,left,176.0,700000.0,3500000.0,2024-06-30,Wasserman
+392710,Lennard Maloney,2023,2036,lennard-maloney,Germany,1999-10-08,Defensive Midfield,Midfield,right,187.0,2000000.0,2000000.0,2025-06-30,AKA Global GmbH
+971613,Dante Polvara,2023,370,dante-polvara,United States,2000-06-21,Defensive Midfield,Midfield,right,193.0,150000.0,150000.0,2026-05-31,Wasserman
+367423,Chris Durkin,2021,475,chris-durkin,United States,2000-02-08,Defensive Midfield,Midfield,right,182.0,1200000.0,1200000.0,2024-12-31,Mega Sports
+381187,Emmanuel Sabbi,2023,738,emmanuel-sabbi,Italy,1997-12-24,Right Winger,Attack,right,178.0,800000.0,1000000.0,2027-06-30,Avid Sports Group
+526111,Alex Mendez,2023,6912,alex-mendez,United States,2000-09-06,Attacking Midfield,Midfield,left,178.0,700000.0,800000.0,2024-06-30,Wasserman
+627205,Griffin Yow,2023,968,griffin-yow,United States,2002-09-25,Left Midfield,Midfield,right,170.0,250000.0,500000.0,2026-06-30,Mega Sports
+656316,Gabriel Slonina,2023,1245,gabriel-slonina,United States,2004-05-15,Goalkeeper,Goalkeeper,right,193.0,4137500.0,9000000.0,2024-06-30,SXI
+699461,Cameron Harper,2020,371,cameron-harper,United States,2001-11-19,Right Winger,Attack,right,176.0,600000.0,600000.0,2023-12-31,Beswicks Sports Ltd
+746838,Zach Booth,2023,724,zach-booth,United States,2004-02-17,Central Midfield,Midfield,right,182.76510067114094,1000000.0,2000000.0,2024-06-30,CCC
+763798,Alejandro Alvarado,2022,6912,alejandro-alvarado,United States,2003-07-29,Central Midfield,Midfield,right,180.0,300000.0,300000.0,2026-06-30,Wasserman
+131183,Perry Kitchen,2017,5724,perry-kitchen,United States,1992-02-29,Defensive Midfield,Midfield,right,183.0,1000000.0,800000.0,2025-06-30,YMU Group
+236590,Christian Ramirez,2022,370,christian-ramirez,United States,1991-04-04,Centre-Forward,Attack,right,188.0,600000.0,1300000.0,2024-12-31,PROSPORT Management
+1335,Steven Cherundolo,2013,42,steven-cherundolo,United States,1979-02-19,Right-Back,Defender,right,172.0,1000000.0,4000000.0,2025-06-30,ARP Sportmarketing
+469858,Ulysses Llanez,2023,82,ulysses-llanez,United States,2001-04-02,Left Winger,Attack,right,170.0,200000.0,300000.0,2024-06-30,More than Sport GmbH
+504209,Gianluca Busio,2021,607,gianluca-busio,United States,2002-05-28,Central Midfield,Midfield,right,172.0,4137500.0,10000000.0,2025-06-30,Octagon
+860812,Agustin Anello,2023,468,agustin-anello,United States,2002-04-22,Left Winger,Attack,right,182.0,350000.0,350000.0,2026-06-30,FGM
+58500,Alfredo Morales,2019,38,alfredo-morales,Germany,1990-05-12,Central Midfield,Midfield,right,183.0,800000.0,3500000.0,2023-12-31,Wasserman
+71107,Brek Shea,2013,512,brek-shea,United States,1990-02-28,Left Midfield,Midfield,left,190.0,1000000.0,3000000.0,2025-06-30,Wasserman
+141704,Steve Clark,2016,2414,steve-clark,United States,1986-04-14,Goalkeeper,Goalkeeper,right,190.0,200000.0,900000.0,2023-12-31,Wasserman
+221624,Zack Steffen,2023,281,zack-steffen,United States,1995-04-02,Goalkeeper,Goalkeeper,right,191.0,3500000.0,10000000.0,2025-06-30,Wasserman
+315762,Luca de la Torre,2023,940,luca-de-la-torre,United States,1998-05-23,Central Midfield,Midfield,right,177.0,3000000.0,3000000.0,2026-06-30,Field Management
+336168,Shaq Moore,2018,3368,shaq-moore,United States,1996-11-02,Right-Back,Defender,right,180.0,1500000.0,1500000.0,2025-12-31,FC Enterprise
+349701,Antonee Robinson,2023,931,antonee-robinson,England,1997-08-08,Left-Back,Defender,left,183.0,4137500.0,11468750.0,2028-06-30,Wasserman
+368898,Juan Torres,2017,498,juan-torres,United States,1999-07-26,Central Midfield,Midfield,right,162.375,250000.0,250000.0,2023-11-30,Wasserman
+1321,Jermaine Jones,2013,114,jermaine-jones,Germany,1981-11-03,Defensive Midfield,Midfield,both,184.0,1000000.0,8000000.0,2025-06-30,Wasserman
+4267,Tim Howard,2015,29,tim-howard,United States,1979-03-06,Goalkeeper,Goalkeeper,right,191.0,1000000.0,10000000.0,2025-06-30,Wasserman
+27577,Clint Dempsey,2013,931,clint-dempsey,United States,1983-03-09,Second Striker,Attack,right,185.0,1000000.0,11468750.0,2025-06-30,YMU Management Ltd.
+38383,Danny Williams,2018,1110,danny-williams,Germany,1989-03-08,Defensive Midfield,Midfield,right,182.0,1000000.0,2800000.0,2025-06-30,Unique Sports Group
+103064,Terrence Boyd,2016,105,terrence-boyd,Germany,1991-02-16,Centre-Forward,Attack,right,188.0,750000.0,1750000.0,2024-06-30,TrueSports GmbH
+242284,Ethan Horvath,2023,703,ethan-horvath,United States,1995-06-09,Goalkeeper,Goalkeeper,right,195.0,1500000.0,2000000.0,2024-06-30,SBM
+332705,Tyler Adams,2023,989,tyler-adams,United States,1999-02-14,Defensive Midfield,Midfield,right,175.0,4137500.0,11468750.0,2028-06-30,YMU Management Ltd.
+575367,Richard Ledezma,2022,383,richard-ledezma,United States,2000-09-06,Attacking Midfield,Midfield,right,174.0,850000.0,850000.0,2023-12-31,CAA Stellar
+627207,Ricardo Pepi,2023,383,ricardo-pepi,United States,2003-01-09,Centre-Forward,Attack,right,185.0,4137500.0,10000000.0,2028-06-30,SXI
+475208,Bryan Reynolds,2023,968,bryan-reynolds,United States,2001-06-28,Right-Back,Defender,right,185.0,4000000.0,6000000.0,2027-06-30,Mega Sports
+504147,George Bello,2021,10,george-bello,Nigeria,2002-01-22,Left-Back,Defender,left,170.0,1500000.0,4000000.0,2026-06-30,Wasserman
+513963,Taylor Booth,2023,200,taylor-booth,United States,2001-05-31,Right Winger,Attack,right,174.0,4137500.0,6000000.0,2025-06-30,CCC
+535282,Sam Vines,2023,1096,sam-vines,United States,1999-05-31,Left-Back,Defender,left,177.0,1800000.0,3000000.0,2024-06-30,Octagon
+190269,Caleb Stanko,2023,3999,caleb-stanko,United States,1993-07-26,Defensive Midfield,Midfield,right,180.0,400000.0,600000.0,2025-06-30,PRO FC
+336160,Andrija Novakovich,2018,385,andrija-novakovich,United States,1996-09-21,Centre-Forward,Attack,right,192.0,900000.0,1700000.0,2026-06-30,Wasserman
+354613,Matt Polster,2019,124,matt-polster,United States,1993-06-08,Defensive Midfield,Midfield,right,183.0,1000000.0,1000000.0,2025-06-30,Octagon
+393321,James Sands,2022,124,james-sands,United States,2000-07-06,Centre-Back,Defender,right,186.0,2500000.0,4000000.0,2027-12-31,Wasserman
+429259,Mark McKenzie,2023,1184,mark-mckenzie,United States,1999-02-25,Centre-Back,Defender,right,184.0,4137500.0,8000000.0,2025-06-30,Wasserman
+465104,Yosef Samuel,2019,5818,yosef-samuel,Ethiopia,1997-07-03,Centre-Forward,Attack,right,183.0,1000000.0,150000.0,2025-06-30,Wasserman
+670144,Jose Gallegos,2021,5817,jose-gallegos,United States,2001-09-22,Attacking Midfield,Midfield,right,176.0,350000.0,400000.0,2026-06-30,Wasserman
+711517,Kevin Paredes,2023,82,kevin-paredes,United States,2003-05-07,Left Midfield,Midfield,left,170.0,4137500.0,5000000.0,2026-06-30,Shot Sports
+50987,Maurice Edu,2012,20,maurice-edu,United States,1986-04-18,Defensive Midfield,Midfield,right,183.0,1000000.0,3000000.0,2025-06-30,Wasserman
+341049,Cameron Carter-Vickers,2023,371,cameron-carter-vickers,England,1997-12-31,Centre-Back,Defender,right,183.0,4137500.0,11468750.0,2026-05-31,Wasserman
+346644,Joel Sonora,2022,1301,joel-sonora,United States,1996-09-15,Attacking Midfield,Midfield,right,173.0,700000.0,1600000.0,2025-06-30,INSUA GROUP
+469860,Indiana Vassilev,2019,405,indiana-vassilev,United States,2001-02-16,Attacking Midfield,Midfield,left,175.0,1000000.0,1000000.0,2024-12-31,GROW
+542776,Jonathan Amon,2023,369,jonathan-amon,United States,1999-04-30,Left Winger,Attack,right,175.0,300000.0,700000.0,2024-06-30,Wasserman
+4746,David Yelldell,2015,15,david-yelldell,Germany,1981-10-01,Goalkeeper,Goalkeeper,right,194.0,1000000.0,1200000.0,2025-06-30,fair-sport GmbH
+354609,Khiry Shelton,2019,127,khiry-shelton,United States,1993-06-26,Centre-Forward,Attack,right,191.0,800000.0,1000000.0,2025-12-31,PG 120 Sport Agency
+504153,Joe Scally,2023,18,joe-scally,United States,2002-12-31,Right-Back,Defender,right,184.0,4137500.0,11468750.0,2027-06-30,Wasserman
+796429,Justin Che,2022,533,justin-che,United States,2003-11-18,Right-Back,Defender,right,185.0,1500000.0,3000000.0,2025-12-31,CAA Stellar
+39897,Michael Parkhurst,2013,167,michael-parkhurst,United States,1984-01-24,Centre-Back,Defender,right,182.76510067114094,1000000.0,1000000.0,2025-06-30,Wasserman
+73427,Caleb Patterson-Sewell,2014,2424,caleb-patterson-sewell,United States,1987-05-20,Goalkeeper,Goalkeeper,right,190.0,1000000.0,400000.0,2025-06-30,Wasserman
+116791,Don Cowan,2012,511,don-cowan,United States,1989-11-16,Right Winger,Attack,right,179.0,1000000.0,50000.0,2025-06-30,Wasserman
+161244,Conor O'Brien,2016,2414,conor-obrien,United States,1988-10-20,Defensive Midfield,Midfield,right,177.0,1000000.0,750000.0,2025-06-30,Wasserman
+332697,Weston McKennie,2023,506,weston-mckennie,United States,1998-08-28,Central Midfield,Midfield,right,185.0,4137500.0,11468750.0,2025-06-30,Wasserman
+503770,Folarin Balogun,2023,162,folarin-balogun,United States,2001-07-03,Centre-Forward,Attack,right,178.0,4137500.0,11468750.0,2028-06-30,Wasserman
+646122,Jacob Samnik,2019,5818,jacob-samnik,United States,2000-11-28,Goalkeeper,Goalkeeper,right,203.375,1000000.0,50000.0,2023-06-30,Wasserman
+674501,Jonathan Gomez,2022,681,jonathan-gomez,United States,2003-09-01,Left-Back,Defender,left,178.0,500000.0,500000.0,2025-06-30,Octagon
+39467,Clarence Goodson,2012,206,clarence-goodson,United States,1982-05-17,Centre-Back,Defender,right,193.0,1000000.0,1850000.0,2025-06-30,Wasserman
+46472,Charlie Davies,2013,5724,charlie-davies,United States,1986-06-25,Centre-Forward,Attack,right,178.0,1000000.0,2200000.0,2025-06-30,Wasserman
+61575,Eric Lichaj,2020,6646,eric-lichaj,United States,1988-11-17,Right-Back,Defender,right,180.0,1000000.0,2000000.0,2025-06-30,Unique Sports Group
+447216,Anthony Fontana,2023,1269,anthony-fontana,United States,1999-10-14,Attacking Midfield,Midfield,both,177.0,650000.0,2000000.0,2025-06-30,CT10 management Srl
+503991,Yunus Musah,2023,5,yunus-musah,United States,2002-11-29,Central Midfield,Midfield,right,178.0,4137500.0,11468750.0,2028-06-30,Wasserman
+393325,Josh Sargent,2021,1123,josh-sargent,United States,2000-02-20,Centre-Forward,Attack,right,185.0,4137500.0,11468750.0,2025-06-30,Wasserman
+511815,Owen Otasowie,2023,2282,owen-otasowie,United States,2001-01-06,Defensive Midfield,Midfield,right,191.0,300000.0,2000000.0,2025-06-30,NVA SEG
+145466,Tim Ream,2023,931,tim-ream,United States,1987-10-05,Centre-Back,Defender,left,186.0,1000000.0,4000000.0,2024-06-30,CAA Stellar
+265671,George Fochive,2016,1063,george-fochive,United States,1992-03-24,Central Midfield,Midfield,right,175.0,200000.0,400000.0,2025-06-30,PROSPORT Management
+282199,Erik Palmer-Brown,2023,265,erik-palmer-brown,United States,1997-04-24,Centre-Back,Defender,right,186.0,2500000.0,3000000.0,2027-06-30,PROSPORT Management
+349699,Kyle Duncan,2021,2861,kyle-duncan,United States,1997-08-08,Right-Back,Defender,right,177.0,1500000.0,2000000.0,2025-06-30,Wasserman
+466809,Konrad de la Fuente,2022,683,konrad-de-la-fuente,United States,2001-07-16,Left Winger,Attack,right,176.0,2500000.0,6000000.0,2025-06-30,InterStarDeporte
+537467,Joseph Efford,2023,2671,joseph-efford,United States,1996-08-29,Centre-Forward,Attack,right,176.0,300000.0,600000.0,2026-06-30,TOP Agency
+605144,Cole Bassett,2022,385,cole-bassett,United States,2001-07-28,Attacking Midfield,Midfield,both,180.0,2000000.0,6000000.0,2024-12-31,Octagon
+623872,Patrick Leal,2021,607,patrick-leal,United States,2003-02-21,Attacking Midfield,Midfield,right,183.0,75000.0,75000.0,2025-06-30,PRO FC
+39378,Jozy Altidore,2014,289,jozy-altidore,United States,1989-11-06,Centre-Forward,Attack,right,185.0,500000.0,9000000.0,2024-12-31,Wasserman
+355369,Jordan,2023,18,jordan,United States,1996-04-26,Centre-Forward,Attack,right,191.0,4137500.0,10000000.0,2024-06-30,Gestifute
+361104,Sergino Dest,2023,383,sergino-dest,Netherlands,2000-11-03,Right-Back,Defender,right,171.0,4137500.0,11468750.0,2024-06-30,Joes Blakborn
+467437,Malik Tillman,2023,383,malik-tillman,Germany,2002-05-28,Attacking Midfield,Midfield,right,187.0,4137500.0,5000000.0,2024-06-30,ROOF
+94167,Jerome Kiesewetter,2014,79,jerome-kiesewetter,Germany,1993-02-09,Centre-Forward,Attack,right,183.0,150000.0,400000.0,2025-06-30,Wasserman
+103559,Mix Diskerud,2020,833,mix-diskerud,Norway,1990-10-02,Central Midfield,Midfield,right,184.0,400000.0,1400000.0,2024-05-31,Wasserman
+103952,Mike Grella,2013,1063,mike-grella,United States,1987-01-23,Left Midfield,Midfield,right,180.0,1000000.0,950000.0,2025-06-30,Wasserman
+140069,Babajide Ogunbiyi,2015,5818,babajide-ogunbiyi,United States,1986-11-30,Centre-Back,Defender,right,193.0,1000000.0,300000.0,2025-06-30,Wasserman
+451860,Keaton Parks,2017,294,keaton-parks,United States,1997-08-06,Defensive Midfield,Midfield,right,193.0,4000000.0,4000000.0,2025-06-30,Wasserman
+578539,Chris Richards,2023,873,chris-richards,United States,2000-03-28,Centre-Back,Defender,right,188.0,4137500.0,11468750.0,2027-06-30,Wasserman
+670096,Tanner Tessmann,2021,607,tanner-tessmann,United States,2001-09-24,Central Midfield,Midfield,right,188.0,2000000.0,2500000.0,2025-06-30,PROSPORT Management
+273570,Desevio Payne,2020,1283,desevio-payne,United States,1995-11-30,Right-Back,Defender,right,182.0,1000000.0,400000.0,2025-06-30,Wasserman
+111783,Alejandro Bedoya,2015,995,alejandro-bedoya,United States,1987-04-29,Central Midfield,Midfield,right,182.0,300000.0,2500000.0,2023-12-31,YMU Group
+160670,Joe Gyau,2014,16,joe-gyau,United States,1992-09-16,Left Winger,Attack,both,175.0,400000.0,600000.0,2023-12-31,BR Group Management
+3476,Brad Friedel,2014,148,brad-friedel,United States,1971-05-18,Goalkeeper,Goalkeeper,right,182.76510067114094,1000000.0,4000000.0,2025-06-30,Wasserman
+504215,Giovanni Reyna,2023,16,giovanni-reyna,England,2002-11-13,Attacking Midfield,Midfield,right,185.0,4137500.0,11468750.0,2025-06-30,Wasserman

@@ -1,0 +1,220 @@
+game_lineups_id,game_id,type,number,player_id,player_name,team_captain,sub_position
+f2570d1504fc02f4b6c7608e8dcf89a3,4087925,substitutes,34,242284,Ethan Horvath,0,Goalkeeper
+f5f0da93ea8e1d8bdd799658e7c8f7cb,4087928,starting_lineup,13,145466,Tim Ream,0,Centre-Back
+31a4d12ec23d604779d909d26c1b5410,4087929,substitutes,26,578539,Chris Richards,0,Centre-Back
+776dcbef98651450db76723cb7e3b4df,4087935,substitutes,26,578539,Chris Richards,0,Centre-Back
+6a35ef7495303f29e7f85dbd54547fb1,4087936,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+79f13b8f8974f3d2784da8650b7dde2b,4087940,substitutes,34,242284,Ethan Horvath,0,Goalkeeper
+d1967adfd9b1b9392a501a93440db2bf,4087946,substitutes,26,578539,Chris Richards,0,Centre-Back
+61ec0811d5a55262a125dc953c24db15,4087951,substitutes,34,242284,Ethan Horvath,0,Goalkeeper
+57dc9dfdb49e8b9713afb8e179cd715f,4087958,substitutes,34,242284,Ethan Horvath,0,Goalkeeper
+a669b5795aca67b256dc84996863f941,4087959,substitutes,26,578539,Chris Richards,0,Centre-Back
+addb125dd200e12a54c97d7641e48262,4087962,starting_lineup,13,145466,Tim Ream,0,Centre-Back
+8031bd2bba214325c22289a00d8d37e2,4087965,starting_lineup,26,578539,Chris Richards,0,Centre-Back
+676c4f6a1bf31a336805172dc7b0d449,4087973,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+943246751982b2a3cb4a814bf84d9b2f,4088587,starting_lineup,37,161204,Julian Green,0,Defensive Midfield
+8227f66bc189610b7f2a046570de5088,4088593,starting_lineup,13,103064,Terrence Boyd,0,Centre-Forward
+779c5ab7a383488699e6cd77743096ac,4088600,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+8a3793349848f784fe84c1a223780ed1,4088606,substitutes,45,355369,Jordan,0,Centre-Forward
+864453d55950620adf76d87d00841197,4089287,substitutes,17,542776,Jonathan Amon,0,Left Winger
+f03ac0f6ec68164e5ebc79324a2fd097,4089522,substitutes,17,542776,Jonathan Amon,0,Left Winger
+062e1aaf59eff3c72cb1c27fcffb7658,4089528,substitutes,17,542776,Jonathan Amon,0,Left Winger
+1798fee259a54b085b5c4ef01b7797cf,4089533,substitutes,17,542776,Jonathan Amon,0,Left Winger
+c9a86ed7d3a2327988db9c6c680e2f59,4089534,substitutes,23,544931,Christian Cappis,0,Central Midfield
+11d2e380857d42729a4f60e9f55c24fc,4089539,substitutes,17,542776,Jonathan Amon,0,Left Winger
+0233c196df35b0789818a9673d7f6120,4089542,substitutes,23,544931,Christian Cappis,0,Central Midfield
+89aed165f9eeb67b0fdf391b36e5e91f,4089544,substitutes,17,542776,Jonathan Amon,0,Left Winger
+eb382c55ce375c2f780e73bc05233342,4089550,substitutes,17,542776,Jonathan Amon,0,Left Winger
+8f3c9faccb1500f2862a15d7d3dd358a,4089557,substitutes,17,542776,Jonathan Amon,0,Left Winger
+f52041e6a6d379cad7c8c1b8aea8aa37,4089566,substitutes,17,542776,Jonathan Amon,0,Left Winger
+044867a2da7c0db524ac14b9554e4530,4089572,substitutes,17,542776,Jonathan Amon,0,Left Winger
+57e3f63e1dce77859c445b106339fe65,4090200,substitutes,17,542776,Jonathan Amon,0,Left Winger
+e34b18c4809ab15bb319f8ae7a2d017d,4090217,substitutes,17,542776,Jonathan Amon,0,Left Winger
+6cfe64023dc5dde10d30a425a7d16478,4090221,starting_lineup,17,542776,Jonathan Amon,0,Left Winger
+b98267b3d4d1d410e2f1c6fe77edc03b,4090229,starting_lineup,17,542776,Jonathan Amon,0,Centre-Forward
+368389f138785a44c736687b9d581a40,4094594,substitutes,99,381187,Emmanuel Sabbi,0,Right Winger
+d1b0127445a661e24f1852494f9aa754,4094598,substitutes,99,381187,Emmanuel Sabbi,0,Right Winger
+3b8cab6fe74dde56f0f448569a48e7e3,4094611,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+0aff78904ab15b833a9c6a95a469d00f,4094619,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+3f388d503b139ba46e9426d2b64258e4,4094628,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+05e868cbbbe102b7b2603a9eb1de834e,4094640,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+403348842dd84ae73d4c3808d57e050e,4094643,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+f51a3aff3286c0c145be9b56208ffd4c,4094658,starting_lineup,11,381187,Emmanuel Sabbi,0,Attacking Midfield
+a1d3c28570924abef34d61665c576629,4094665,starting_lineup,11,381187,Emmanuel Sabbi,0,Right Winger
+6aaf528126b0a0ede72110515d724176,4094670,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+b910cf28c04153780fcec49cd738e052,4094682,substitutes,11,381187,Emmanuel Sabbi,0,Right Winger
+081e1fc1a2cd381ce391f72f684d37f6,4095067,substitutes,26,578539,Chris Richards,0,Centre-Back
+c9f5beaabc78ca5082c8c0910e40e196,4095067,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+1ac35d72d3ef4fccfe6248c92e38a0db,4095139,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+67bb83fa800a8f06375a9732792f5f4d,4095140,substitutes,26,578539,Chris Richards,0,Centre-Back
+d7e7732f110787ca5122a4f4fd86dbb6,4095149,substitutes,26,578539,Chris Richards,0,Centre-Back
+29551a86e43235fd856fa910dbfb75c7,4095151,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+612e501a8637c14ec29c3de1f416c597,4095162,substitutes,26,578539,Chris Richards,0,Centre-Back
+5dadf1a55b6e04a10bc3c14e3e8bdeff,4095165,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+085b4ce375cf2a8452b8f5688854a261,4095169,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+9a2af5ce99efefe14d13591af670c7a6,4095171,substitutes,26,578539,Chris Richards,0,Centre-Back
+b8793a11ed0163ea754b02d434339e9e,4095177,substitutes,26,578539,Chris Richards,0,Centre-Back
+e9087c77973bc5201abdfb115afbb476,4095179,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+f31522897b01daedd465f7f1ebfb245c,4095188,starting_lineup,13,145466,Tim Ream,1,Centre-Back
+c47d5bf7c609151a005b0fb8c46e55d9,4095191,substitutes,26,578539,Chris Richards,0,Centre-Back
+912cc5d70f3232f724606b61cdee1b6b,4095969,substitutes,45,355369,Jordan,0,Centre-Forward
+cee188f7bd12f3158a316cb74a45ca84,4095973,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+57bf9a528889441c25520e3bff5cc522,4095983,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+4fd053dce11cf9a07d4db23a4a876968,4095984,substitutes,45,355369,Jordan,0,Centre-Forward
+37a48c69a2841b3afef32bd9b612e361,4095989,substitutes,13,355369,Jordan,0,Centre-Forward
+521fba71b5e89248b47e3ddae5f8eb60,4095990,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+607990c33b6cd9b76823cf51ffba887c,4095999,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+91ab65a6a5a68a24aefbdfa0fd4d8e2c,4096002,starting_lineup,13,355369,Jordan,0,Centre-Forward
+079a974fcd37f62fba0f42f31c384890,4096004,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+e29214ae1931f655578a43a06c72bce0,4096005,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+912dbc54e5c4d843919ceddb608ad7a9,4096008,starting_lineup,13,355369,Jordan,0,Centre-Forward
+58f7532a88c4e4061efbeaa5602d483c,4096017,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+5ee0a7ca8dbfb77db005683627a78997,4096017,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+aca583df12b5ceb20a86d0083243b1be,4096018,starting_lineup,13,355369,Jordan,0,Centre-Forward
+8d878d406af141dacbb6e230a12439df,4096022,substitutes,7,504215,Giovanni Reyna,0,Right Winger
+8d717b1017e72d89d2ee1112bb2d7466,4096025,substitutes,22,49723,Timothy Chandler,0,Right-Back
+58e4c28823ad13dae54aab0aaa242fdc,4096026,starting_lineup,13,355369,Jordan,0,Centre-Forward
+94cd274993a2b0bfbd93b629995a0df6,4096027,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+2f08bd17890589ee3d764252d79e903d,4096030,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+c9089d7f80dc33ac60079fa242694633,4096035,substitutes,13,355369,Jordan,0,Centre-Forward
+6b3e470b0a3d5cf7bba70918a093c2e6,4096036,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+68c060a21019ec1764685cece7b47f1a,4096042,starting_lineup,7,504215,Giovanni Reyna,0,Left Winger
+d53eb3fd74523d6dd4536653c145ae96,4096042,substitutes,22,49723,Timothy Chandler,0,Right-Back
+bfa28568557efe67138c65a1689a8d40,4096043,starting_lineup,13,355369,Jordan,0,Centre-Forward
+eecb5b0ad12e1fed09303f61026d8ba3,4096047,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+d113073818e1b6fd04da05ba068212be,4096048,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+7f60ed14020a91df66a709a849c9ceb5,4096050,starting_lineup,13,355369,Jordan,0,Centre-Forward
+0af3c7b5f2eaf213946bd696c7447324,4096054,substitutes,23,124732,John Anthony Brooks,0,Centre-Back
+3efc21c645e46b2f411bcdb1710aa444,4096061,substitutes,22,49723,Timothy Chandler,0,Right-Back
+fa8e3335ef10ac1a69fa12315da66334,4096063,substitutes,23,124732,John Anthony Brooks,0,Centre-Back
+5342781b290f24eda3c654c5147c2e8e,4096064,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+cda78a6df695090af7736b222c0a4042,4097133,substitutes,9,393325,Josh Sargent,0,Centre-Forward
+9134ebd2409386ccc95b50cd0d5bf4b6,4097932,substitutes,8,361104,Sergino Dest,0,Right-Back
+e22997486498ba5d4ccf480d215bbd5b,4097942,starting_lineup,8,361104,Sergino Dest,0,Right-Back
+af42027212cb4222dea9bb891441db00,4097956,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+b5126fcd895098c64a4103efc16ea6f7,4097959,starting_lineup,8,361104,Sergino Dest,0,Right-Back
+a4f6c3f76c618614f53124db98753cf9,4097970,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+e5b2dff0def8375ac33780a3f8152719,4097986,substitutes,8,361104,Sergino Dest,0,Right-Back
+7e916b63a3e97cbcd48e5a99d511276c,4097996,starting_lineup,8,361104,Sergino Dest,0,Right-Back
+f0a0651b89244db37b330d3bc344a6ca,4098009,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+42ef1a19cad84986cb3e085942191c9f,4098103,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+4d5d7a2e7cf7ec9b0603b8d3661f5943,4103472,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+111103b04bb5ae5393c6e4e3eba4901a,4103481,starting_lineup,22,370846,Timothy Weah,0,Right Midfield
+3bf367fa2678099c727fa8f353054514,4103481,substitutes,16,332697,Weston McKennie,0,Right Midfield
+92b44b18fb155e79ec230a67374f9764,4103486,starting_lineup,22,370846,Timothy Weah,0,Right Midfield
+dad241d31ea3668b8a4a026acca2bc37,4103486,substitutes,16,332697,Weston McKennie,0,Central Midfield
+5c4539ca03600a77434e9a796365ea7b,4103488,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+c8e3addbc5346169d4fd3ec3f351de9b,4103494,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+6977e91ebe292a2cc16761e5bc4fe2c0,4103494,substitutes,22,370846,Timothy Weah,0,Right Midfield
+37419eb7ccc71d265e7bc935c391895e,4103498,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+24762c5cfd73a3d7506af76c2690fd32,4103507,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+ffaef02c8133557f0700afc78ebb3618,4103508,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+4f4e9278ac49a4c0fb5ba66df4863903,4103508,substitutes,22,370846,Timothy Weah,0,Right Midfield
+d83543498a0876ab2192a546c8312f7b,4103517,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+cf46d209a82c7e52843f2330b6dbdc48,4103519,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+6cebb053c348fe01214cb3aa365aa51d,4103519,substitutes,22,370846,Timothy Weah,0,Right Midfield
+bb63371c79745c8bf3e07155fe6e89ae,4103522,starting_lineup,11,315779,Christian Pulisic,0,Left Winger
+ceec32fbeb3463e16904d2064b9da9e8,4103528,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+285c38a8fef98e249081218715286f8e,4103528,substitutes,22,370846,Timothy Weah,0,Right Midfield
+78c29f80f6f26e731d3458de9ea4e0ef,4103532,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+95660149fe9be5f4b8dd0fa19bc3af05,4103532,substitutes,22,370846,Timothy Weah,0,Right Midfield
+6c5a83f0de938b3058d7126232ca6b22,4103536,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+a9910e800afbad540243684222001a9c,4103545,substitutes,11,315779,Christian Pulisic,0,Right Winger
+f6293a1b9336744560dd298376ccae54,4103547,starting_lineup,16,332697,Weston McKennie,0,Central Midfield
+38f5e822681fadc0acbbd182a183ac51,4103547,starting_lineup,22,370846,Timothy Weah,0,Right Midfield
+6f1d79993ec3da5d8890cbd0054857b4,4103556,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+c33fd5642d666214c61f7bd36489a1f6,4103556,starting_lineup,16,332697,Weston McKennie,0,Central Midfield
+1aac5cddd885e7c6490710201a65f951,4103556,starting_lineup,22,370846,Timothy Weah,0,Right Midfield
+aeff5f50c9e0531fc3e3d792c08ce1d3,4103566,starting_lineup,16,332697,Weston McKennie,0,Central Midfield
+ceedb3bea55c270efb537ce8d4321cf6,4103566,starting_lineup,22,370846,Timothy Weah,0,Right Midfield
+d5a88e92489f8df97262a1cfb1612ca7,4103570,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+54776499e7f8e3d2c042919e072e8df3,4103575,starting_lineup,16,332697,Weston McKennie,0,Right Midfield
+b9c74f200ba33056394ca24ae9072300,4103585,starting_lineup,16,332697,Weston McKennie,0,Central Midfield
+84139cfa58e22af9251f32d994ffb67e,4112808,substitutes,14,315762,Luca de la Torre,0,Central Midfield
+6c2cd4d65466c9b6322f67bde66e93ec,4113045,starting_lineup,14,315762,Luca de la Torre,0,Defensive Midfield
+cd29a0bbee8819772a16cbf30851a020,4113057,starting_lineup,14,315762,Luca de la Torre,0,Central Midfield
+ff86747059ab6a3735cca7e954b4fc6d,4113074,starting_lineup,14,315762,Luca de la Torre,0,Central Midfield
+aa92d9938744896e36bb3fbdbd9deafe,4113082,starting_lineup,14,315762,Luca de la Torre,0,Attacking Midfield
+da39cc84de04d03af0896a236f1c678e,4113088,substitutes,14,315762,Luca de la Torre,0,Central Midfield
+263cf45ca122a8ba9f6e3ec3f8bffeb7,4113108,starting_lineup,14,315762,Luca de la Torre,0,Central Midfield
+26acc77aa820d733bcd82da221a2d4cb,4113122,starting_lineup,14,315762,Luca de la Torre,0,Defensive Midfield
+9f7cd2c9ec364251f645d2481f74db5e,4113125,starting_lineup,14,315762,Luca de la Torre,0,Central Midfield
+aac7cfc1bcc77e54afcdbe096cdc0693,4113145,starting_lineup,14,315762,Luca de la Torre,0,Right Midfield
+d05d080ea379575b2aad4aa5766e69ce,4113156,starting_lineup,14,315762,Luca de la Torre,0,Right Midfield
+3aba60729abad296cd96ff4dce980e75,4120848,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+bb62c8df36995290e3f90fc7b0c1be6d,4120849,substitutes,11,537467,Joseph Efford,0,Centre-Forward
+73f0440e996bf2e1742700dcc621b438,4120854,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+006f44a0f4532100b6beee5fe05062ee,4120856,substitutes,11,537467,Joseph Efford,0,Centre-Forward
+3689c5ea028884d6c5b0ae898ed4361f,4120863,starting_lineup,11,537467,Joseph Efford,0,Centre-Forward
+26085977dac1dc934abb39888f128636,4120867,substitutes,11,537467,Joseph Efford,0,Centre-Forward
+2aa43e79d31412de8a55d83872f9768c,4120891,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+94d3988c4e77594637d19f74a9149542,4120897,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+3a6fe1b03650434b0e4eda7e2e8da62b,4120902,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+02165afe418ff7ae29dba2b471f38e56,4120918,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+5c5165523fa3616f345aba4936975436,4120920,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+7f5eb0596e8923f7f821b9da3dcfcb9c,4136839,starting_lineup,5,209019,Kenny Saief,0,Right Winger
+b3a21e2a192e95ea0088f6e01a506ac4,4136840,starting_lineup,5,209019,Kenny Saief,0,Right Winger
+2e33c4f6de193efeb429fba3cb019c66,4137135,substitutes,11,336160,Andrija Novakovich,0,Centre-Forward
+ff7fdfa57ea5334f27fbe777ef355b2f,4145197,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+a015e9868ba55f28128b0506e574d1f7,4145198,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+2e429cc98cfccc16bea57863c0f44388,4148221,starting_lineup,5,209019,Kenny Saief,0,Right Winger
+a92a2a43dadd29899fb4f48c49282c90,4148254,starting_lineup,5,209019,Kenny Saief,0,Left-Back
+a32a261a6ca75814a2ede4b5e2278d1e,4150483,starting_lineup,27,190269,Caleb Stanko,0,Defensive Midfield
+3bcfca4640508ee4422e8c0b59bf05fd,4150486,starting_lineup,14,282199,Erik Palmer-Brown,0,Centre-Back
+4c0e7d057f5d8cc156dba146f11496f5,4150491,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+fbf349047e47f048a202728e40d4c1c3,4150493,starting_lineup,27,190269,Caleb Stanko,0,Defensive Midfield
+64b15c281ac31ef8a2fd31e5e54872b5,4150497,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+30f4b9be20c87112d7cd8fc2355076f6,4150500,starting_lineup,27,190269,Caleb Stanko,0,Defensive Midfield
+db69872c3c1dd5752f9b1f567e7f8892,4150505,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+4921f832fdedeb528cd789c2076c14a2,4150506,starting_lineup,27,190269,Caleb Stanko,0,Defensive Midfield
+eadce2f0ce9f400d0561a8c05453d702,4150507,substitutes,28,537467,Joseph Efford,0,Centre-Forward
+e44dd1f3ca9e781295c9bf93e4b56946,4150516,starting_lineup,14,282199,Erik Palmer-Brown,0,Centre-Back
+e0ae884a407b6ff48a895cbac10b8184,4150517,substitutes,27,190269,Caleb Stanko,0,Defensive Midfield
+bc79183aa9a1ffacb14cc733f6143411,4150562,substitutes,28,537467,Joseph Efford,0,Centre-Forward
+ce27263c6d0dfb8c80b050ac9eb266a8,4150607,starting_lineup,27,190269,Caleb Stanko,0,Defensive Midfield
+e16817800f83daf7bad1ddabf58316b7,4150625,substitutes,28,537467,Joseph Efford,0,Centre-Forward
+b7ae418b7b5260ad6a0c4bc48c768248,4150626,substitutes,27,190269,Caleb Stanko,0,Defensive Midfield
+075a53c91bc1f08875cf872e9ada36ed,4150634,substitutes,27,190269,Caleb Stanko,0,Defensive Midfield
+0d88348def07721797108005edf3c5b4,4150656,substitutes,28,537467,Joseph Efford,0,Centre-Forward
+4181ae3842513237a340485fffb8aa64,4157241,starting_lineup,17,542776,Jonathan Amon,0,Right Midfield
+656be2d5194fd48aaab4ff3f316ae09f,4160966,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+0f1017d047ad43d8cc33f1091762afe1,4160975,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+cc79e78c570ce19872dfed125d324407,4162615,substitutes,22,49723,Timothy Chandler,0,Right-Back
+21de58902f547e231bf2604be9fa996f,4162639,substitutes,22,49723,Timothy Chandler,0,Right-Back
+6c93cea07640908fecb225e05dfe1874,4164109,starting_lineup,13,145466,Tim Ream,0,Centre-Back
+4a6c34affe27fd59db74a9f28d955f2d,4164112,starting_lineup,26,578539,Chris Richards,0,Centre-Back
+1d1e4b03acf4b08cced76f9ecc2f9c20,4164118,substitutes,34,242284,Ethan Horvath,0,Goalkeeper
+abf64723d41894ed0b0f5ff67cf15082,4171232,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+fbad8897b0fa9a80a58358d205762787,4171234,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+d7988772275bdb8a5bd49c514d649e8b,4171236,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+a7cb9beb8d10f6d778d21eaa7ba439b2,4171239,starting_lineup,8,361104,Sergino Dest,0,Left-Back
+103aad9153701e501e0fac41cffe9739,4171277,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+5fe5602819a212d493cb6ede451da77f,4171282,starting_lineup,20,341049,Cameron Carter-Vickers,0,Centre-Back
+4092ddd70722c9320f4ae75b1e22c579,4171283,substitutes,20,341049,Cameron Carter-Vickers,0,Centre-Back
+a70495a7b4cc7676063b68f4c45bb700,4171284,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+c7362770fcb06fbc8ee75702943652d2,4171285,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+a65648b223b03ab812603988d2dec1f7,4171288,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+02d16b0bbe76635d919aee23b150d395,4171288,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+5697df5ef458d5d1a6356022b711bcef,4171289,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+5bfff7d1ba9830f336be2e1732337129,4171290,starting_lineup,11,315779,Christian Pulisic,0,Right Winger
+f964cf1fa6072592acba7cc8d01753f3,4171292,substitutes,11,315779,Christian Pulisic,0,Right Winger
+07ff767aafe5afac262290b68c33c3e2,4171294,substitutes,7,504215,Giovanni Reyna,0,Attacking Midfield
+79ff69f0a72e4f44e3be95a59a7e526b,4172130,substitutes,14,282199,Erik Palmer-Brown,0,Centre-Back
+4a18f00b16cc129893f3d8b1043f5d56,4172149,substitutes,4,544931,Christian Cappis,0,Central Midfield
+2ddbe25aa629167bd309ed1077990206,4172151,substitutes,4,544931,Christian Cappis,0,Central Midfield
+fb371e481c247acc131a719a5b55f496,4172153,substitutes,4,544931,Christian Cappis,0,Central Midfield
+60f259a693d6801befb2f40fb99b4b3e,4180928,substitutes,17,542776,Jonathan Amon,0,Left Winger
+1bb7afffc8733e706d9c0da00a1c1440,4188445,starting_lineup,26,578539,Chris Richards,0,Centre-Back
+bf662e3c437051eb938f994855435d50,4188448,starting_lineup,2,307781,Lynden Gooch,0,Left-Back
+45dac09eeacb12f4edf56fd86c039b50,4188448,substitutes,18,332705,Tyler Adams,0,Defensive Midfield
+4e2250290c86671d157d2a312a2a8d95,4188451,substitutes,13,145466,Tim Ream,0,Centre-Back
+ff2786dcdf010ba67043a91587e0104f,4190037,substitutes,95,273570,Desevio Payne,0,Right Midfield
+907cccfbd635208a95140967eb013744,4192910,starting_lineup,17,542776,Jonathan Amon,0,Centre-Forward
+424b632d9ccda4e304c3bf566a00aa06,4194139,substitutes,22,49723,Timothy Chandler,0,Right-Back
+b46ec78b0e9ac50b0a15400eab64f39c,4194141,starting_lineup,37,161204,Julian Green,0,Defensive Midfield
+d0a790a5cfbaf271742e14bf4dbb64a5,4194147,starting_lineup,13,355369,Jordan,0,Centre-Forward
+ec3d266094f99ca0a8847de827e37105,4194152,starting_lineup,7,504215,Giovanni Reyna,0,Right Winger
+667840cda9bdf3b0344b8e99b306cf38,4194152,starting_lineup,23,124732,John Anthony Brooks,0,Centre-Back
+1c5d2f60ee777760f8a757aa10c42bb1,4194154,starting_lineup,13,103064,Terrence Boyd,0,Centre-Forward
+99032084fd00ffbfee52c541a9f960ab,4204000,substitutes,14,315762,Luca de la Torre,0,Central Midfield
+5c9eaf6ebb621d43a0d6fd6a9e607ef9,4220942,substitutes,13,145466,Tim Ream,0,Centre-Back
