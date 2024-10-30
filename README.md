@@ -120,8 +120,20 @@ substitution patterns, and other key factors. It explores individual player cont
 10. **Contract Management** - Assessing Player contracts and agent representations for players.
 
 ## Data Sources
-- **Source**: [Include sources, e.g., official league datasets, API references]
-- **Details**: Provide a brief summary of your data, including player profiles, match events, competition details, etc.
+- **Data Sets**:
+	- [players.xlsx](https://github.com/user-attachments/files/17573743/players.xlsx)
+ 	- [game_events.xlsx](https://github.com/user-attachments/files/17573738/game_events.xlsx)
+ 	- [appearances.xlsx](https://github.com/user-attachments/files/17573744/appearances.xlsx)
+	- [game_lineups.xlsx](https://github.com/user-attachments/files/17573740/game_lineups.xlsx)
+	- [games.xlsx](https://github.com/user-attachments/files/17573741/games.xlsx)
+
+- **Details**:
+	- i.	players and their in-game related statistics,
+	- ii.	the special game events like substitutions, goals, and fouls for each of the players based on each games played,
+	- iii.	some key player appearances in games like number of yellow/red cards, number of goals and number of assists made by players for each game played,
+	- iv.	player lineup details like whether team captain or not, whether a substitute or a starting lineup player,
+	- v.	and games wise each detail for season, each competition id(leagues), the teams facing each other, goals scored by each team, the managers, stadium and referee details
+
 
 ## Tools Used
 1. Microsoft Excel 			        --> Used mainly for pivot tables, conditional formatting and Excel Charts for PowerPoint Presentation
